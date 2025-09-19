@@ -1,4 +1,4 @@
-# vulnerable_test.py for
+# vulnerable_tesaat.py for
 import sqlite3
 
 def get_user_info(user_id):
