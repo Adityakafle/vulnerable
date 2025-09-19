@@ -1,4 +1,4 @@
-# vulnerable_tssesaat.py for
+# vulnerable_tssessaat.py for
 import sqlite3
 
 def get_user_info(user_id):
